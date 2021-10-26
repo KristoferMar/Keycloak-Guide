@@ -19,3 +19,6 @@ There are three types of tokens
 - User to refresh an access token or ID token
 - Self contained or opaque
 - Life span is higher than access & ID tokens
+
+## Create user and login via API
+https://developers.redhat.com/blog/2020/01/29/api-login-and-jwt-token-generation-using-keycloak#
