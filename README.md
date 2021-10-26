@@ -22,3 +22,6 @@ There are three types of tokens
 
 ## Create user and login via API
 https://developers.redhat.com/blog/2020/01/29/api-login-and-jwt-token-generation-using-keycloak#
+
+## SSO
+To enable SSO we need to navigate to the administrative authentication settings where the cookie auth type has to be toggled as "ALTERNATIVE".
